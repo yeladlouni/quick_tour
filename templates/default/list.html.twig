@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to Symfony!</title>
+</head>
+<body>
+<h1>Posts List</h1>
+
+{% for message in app.flashes('notice') %}
+    <div class="flash-notice">
+        {{ message }}
+    </div>
+{% endfor %}
+
+<ul id="navigation">
+    {% for post in posts %}
+        <li><a href="{{ post.author }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+</body>
+</html>
