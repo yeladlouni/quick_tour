@@ -1,2 +1,11 @@
-1. Créer une base de données intitulée evaluation
- avec une table user contenant les informations
+1.	Créer une base de données intitulée evaluation  contenant une seule table user avec les informations :
+•	id qui s’incrémente automatiquement
+•	username le nom d’utilisateur
+•	password le mot de passe
+•	first_name le nom de famille de l’utilisateur
+•	last_name le prénom de l’utilisateur
+•	address l’addresse de l’utilisateur
+•	birthDate la date de naissance de l’utilisateur
+2.	Créer une page php afin que l’utilisateur puisse s’inscrire en enregistrant les informations saisies ans la table user en cliquant sur le bouton submit
+3.	Créer une page d’authentification et orienter l’utilisateur vers la page acceuil si le username est « admin » et le mot de passe est « admin »
+4.	La page acceuil contient un message d’acceuil « Bienvenu à la page d’acceuil » avec la mention du username
