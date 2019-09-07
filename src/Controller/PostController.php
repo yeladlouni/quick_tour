@@ -73,3 +73,4 @@ class PostController extends AbstractController {
         return $this->render('default/list.html.twig', array('posts' => $posts));
     }
 }
+
