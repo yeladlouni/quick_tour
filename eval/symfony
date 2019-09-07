@@ -1,5 +1,6 @@
 1. Créer une entité nommée Car et les annotation nécessaires
- permettant de modéliser la voiture avec les attributs:
+ permettant de modéliser la voiture
+ avec les attributs:
  * id représentant le numéro de chassis de la voiture
  * color représentant la couleur de la voiture
  * brand représentant la marque de la voiture

@@ -1,0 +1,12 @@
+1. Afficher le manager de chaque employé à partir de la table employee
+du schéma hr à l'aide d'une requête SQL
+
+2. Créer une table Car avec les propriétés suivantes:
+* id une clé primaire qui auto s'incrémente par pas de 2
+* brand la marque de la voiture
+* model la date de construction de la voiture
+* color la couleur de la voiture
+
+3. Créer une fonction qui permet de créer un curseur et de parcourir
+les voitures enregistrées afin d'afficher pour chaque voiture son id,
+sa marque et son modèle.

@@ -9,3 +9,6 @@
 2.	Créer une page php afin que l’utilisateur puisse s’inscrire en enregistrant les informations saisies ans la table user en cliquant sur le bouton submit
 3.	Créer une page d’authentification et orienter l’utilisateur vers la page acceuil si le username est « admin » et le mot de passe est « admin »
 4.	La page acceuil contient un message d’acceuil « Bienvenu à la page d’acceuil » avec la mention du username
+
+
+yeladlouni@gmail.com
