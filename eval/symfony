@@ -1,0 +1,15 @@
+1. Créer une entité nommée Car et les annotation nécessaires
+ permettant de modéliser la voiture avec les attributs:
+ * id représentant le numéro de chassis de la voiture
+ * color représentant la couleur de la voiture
+ * brand représentant la marque de la voiture
+ * model représentant la date du modèle de la voiture
+
+2. Créer un controller avec les méthodes et les annotations nécessaires afin d'ajouter
+et d'afficher l'ensemble des voitures stockées en utilisant Doctrine.
+A la création d'une voiture, orienter l'utilisateur vers la liste
+des voitures enregistrées.
+
+3. Ajouter 2 templates, l'un afin d'afficher un formulaire pour
+la saisie d'une nouvelle voiture et l'autre pour afficher
+la liste des voitures enregistrées
